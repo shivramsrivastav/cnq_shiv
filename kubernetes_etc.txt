@@ -1,0 +1,58 @@
+https://github.com/shivramsrivastav/kubernetes/commit/e495589b8fae8e54c45c09bd2f54a062b8328619
+
+Added the priproty function https://github.com/rohitsardesai83/kubernetes/commit/b54b5a9176b973623ca64e69cd5bac03d0ebfe58
+
+
+In this 
+
+
+Curretly https://github.com/ICGog/poseidongo
+
+https://github.com/camsas/firmament/commit/22a6c1e1a3098f18418b49fdc223374c695e27ec
+
+
+
+
+
+Started with CHE POC delivery.
+Delivered the CHE ( Cloud Hybrid Engine):
+This involved in both the design and development of the CHE
+
+Achieved:
+1) Contributed 5K lines of code.
+2) Demoed various stages of CHE to the US office managers.
+3) Video recorded the whole flow of the CHE application.
+4) Delivered the container driven ( marathon dependent ) workload for CHE.
+5) Wrote marathon APIs for CHE.
+
+
+RAPL and CPU Core Frequency SIG for loud 3.0 HOSS:
+Achieved:
+1) Evaluate the intel RAPL drivers
+2) Intel p-State driver.
+3) Evaluation was done and results published to the HQ.
+4) CPU core frequency adjustments using Intel exposed drivers.
+5) Also helped the team with core pinning and container networking.
+
+Firmament Evaluation:
+1) Evaluated firmament 
+2) Raised few issue and have addressed an issue and raised a pull request which
+   was merged into the main branch.
+3) Have written a job submission script and which is under review.
+
+
+GeoDns for Core DNS:
+Currently involved in integrating  GeoDNS with the open source CoreDNS ( the successor of skyDNS)
+This is at a very beginning stage, will be proposing a design for the same soon.
+
+
+Apart from this also working on an application to fetch data from meetups and LinkedIn for recruitment.
+
+
+Github :
+
+https://github.com/camsas/firmament/commit/3aeb8d4094c6805f8b904b777c54ac349e491df4
+https://github.com/camsas/firmament/issues/48
+https://github.com/camsas/firmament/issues/49
+https://github.com/camsas/firmament/issues/51
+https://github.com/camsas/firmament/commit/0b8ceea527c820665ef99c98e709c30b537e21d2
